@@ -12,3 +12,23 @@ Tanto en Ingreso, gastos, Utilidad y saldo se maneja una cuota, la cual es el va
 
 El dashboard esta ubicado en el siguiente link:
 https://app.powerbi.com/groups/me/reports/9e68194e-6298-4463-ae52-f179363e4d49/ReportSectionf195913f64c003a0a552?experience=power-bi 
+
+##Principal
+![image](https://github.com/QuimeraRios/FinanzasPersonalesDashboard/assets/115653073/bb6921ff-8f34-4882-9ea1-e41d9fb637ce)
+
+##Cuota ingresos
+![image](https://github.com/QuimeraRios/FinanzasPersonalesDashboard/assets/115653073/b2e334f1-ef22-4de7-8a6f-150f7fb7f500)
+
+##Cuota Gastos
+![image](https://github.com/QuimeraRios/FinanzasPersonalesDashboard/assets/115653073/bad2d71f-a558-4663-80c5-ecc278389ccb)
+
+##Cuota Saldos
+![image](https://github.com/QuimeraRios/FinanzasPersonalesDashboard/assets/115653073/b72effa5-c3d4-4b1f-888a-68bc359f4bcb)
+
+##Detalle Utilidad
+ ![image](https://github.com/QuimeraRios/FinanzasPersonalesDashboard/assets/115653073/4f464ba0-8316-42b7-8862-1f32d58ec2fa)
+ 
+
+
+
+
